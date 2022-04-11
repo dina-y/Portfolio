@@ -46,7 +46,10 @@ nav {
     margin-left: auto;
   }
 
- 
+.container {
+      width: 75%
+  }
+
 
 
   /* Logo CSS */
@@ -507,10 +510,5 @@ font-family: "Poppins", sans-serif;
     } 
   }
 
-   @media (min-width: 320px){
-    .menu .elementor-tabs-wrapper {
-    display: flex;
-    flex-direction: row;   
-    }
 
-}}
+}
